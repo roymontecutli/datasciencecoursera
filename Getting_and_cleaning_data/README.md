@@ -31,6 +31,8 @@
 
 ## Extracted Feature Fields
 
+| column number | description |
+| ----- | ----------- |
 | 1 | activity |
 | 2 | subject |
 | 3 | tBodyAcc.mean...X |
